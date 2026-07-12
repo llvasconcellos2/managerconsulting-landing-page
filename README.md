@@ -67,6 +67,9 @@ All of it was delivered as a single self-contained HTML file with inline CSS and
 
 **Key features:**
 
+<!-- KEY FEATURES -->
+### Key Features
+
 - **Embedded live-agent chat status** — Integrated MySuite's real-time online/offline indicator via iframe so clients could see agent availability at a glance, reducing missed support contacts before a full site existed.
 - **Direct remote desktop CTA** — Surfaced the firm's remote access tool as a first-class action, letting clients initiate a technical session without calling in or navigating a separate site.
 - **Zero-dependency single-file delivery** — The entire landing experience fit in one HTML file with inline CSS: no build step, no backend, sub-second load on the dial-up and early broadband connections common in Brazilian offices in 2008.
